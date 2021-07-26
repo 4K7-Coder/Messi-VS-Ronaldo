@@ -17,6 +17,11 @@ h1{
     line-height: 25px;
     
 }
+.flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .fix{
     width: 100%;
     background: #111;
